@@ -1,0 +1,64 @@
+:root {
+    --main-bg-color: #bfd3c1;
+}
+
+.font1 {
+    font-family: 'Arvo', serif;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lobster', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.max-width-1 {
+    max-width: 80vw;
+}
+
+.max-width-2 {
+    max-width: 60vw;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+
+.btn {
+    position: absolute;
+    margin-top: 2px;
+    cursor: pointer;
+
+}
+
+.btn:hover {
+    color: black;
+    background-color:rgb(212, 140, 212);
+}
+
+.nav-left ul li a:hover {
+    color: rgb(120, 13, 173);
+
+}
+
+.form-input {
+    padding: 6px;
+    padding-block: 3px 9px;
+    font-size: small;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 0 7px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.intro {
+
+    color:white;
+    font-size: 25px;
+    position:absolute;
+    text-align:left;
+    letter-spacing: 10px;
+    margin-top:250px;
+    padding-left: 10px;
+    
+}
